@@ -15,7 +15,7 @@
          enabled="true"
          homeMashup=""
          identifier=""
-         lastModifiedDate="2019-12-12T10:54:06.776Z"
+         lastModifiedDate="2019-12-12T10:56:14.809Z"
          name="GitThingITC"
          projectName="DevOpsTest"
          published="false"
@@ -143,7 +143,7 @@
                             </FileRepository>
                             <GitRepoURL>
                             <![CDATA[
-                            https://github.com/ITC111/TestRepository
+                            https://github.com/ITC111/ITCRepository1.git
                             ]]>
                             </GitRepoURL>
                             <Password></Password>
